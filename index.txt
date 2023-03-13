@@ -1,0 +1,5 @@
+Rule :
+
+- Push HTML Murni di branch Asset
+- Push Project React di branch main
+- Beri Komentar Setelah Push, tandai komentar dengan nama fitur
